@@ -212,8 +212,8 @@ h6 {
 p {
 	padding-top: 0;
 	margin-bottom: 15px;
-	font-size: 16px;
-	line-height: 24px;
+	font-size: 18px;
+	line-height: 150%;
 	font-weight: 400
 }
 
@@ -1700,7 +1700,17 @@ div{
 .queries-sec .text-red{
     text-decoration: none;
 }
-
+.objectives li
+{
+	list-style: none;
+	font-size: 18px;
+	color:#000; 
+	margin-bottom: 10px
+}
+.color-black
+{
+	color: #000
+}
 @media (min-width:992px)
 {
     .hero{
@@ -1715,5 +1725,9 @@ div{
 .banner-slider
 {
     width:100%;
+}
+.vision
+{
+	border-left: 3px solid yellow
 }
 }
