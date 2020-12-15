@@ -283,12 +283,6 @@ iframe[name=google_conversion_frame] {
 	margin: 25px 0
 }
 
-p.small {
-	font-size: 90%;
-	line-height: 1.5;
-	color: #ed268e;
-	font-weight: 500
-}
 
 p.large {
 	font-size: 16px;
@@ -1730,8 +1724,42 @@ div{
 {
     width:100%;
 }
+<<<<<<< Updated upstream
 .vision
 {
 	border-left: 3px solid #f2de61
 }
+=======
+}
+
+.publications-icon{
+	font-size: 35px !important;
+}
+
+.publications-wrapper{
+	padding: 10px 0px;
+    border-bottom: 2px solid #CFBE53;
+}
+
+.eligibility-wrapper .publications-wrapper:last-child{
+	border-bottom: none;
+}
+
+.event-wrap{
+	background: #F3F3F3;
+	padding: 7px 15px;
+}
+
+@media(max-width: 480px){
+	.event-row .pl-0{
+		padding-left: 15px !important;
+	}
+
+	.event-row .pr-0{
+		padding-right: 15px !important;
+	}
+	.animal-testing-sec .border-right{
+		border-right: none !important;
+	}
+>>>>>>> Stashed changes
 }
