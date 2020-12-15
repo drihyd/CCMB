@@ -1711,6 +1711,10 @@ div{
 {
 	color: #000
 }
+.our-team p
+{
+	color: #000
+}
 @media (min-width:992px)
 {
     .hero{
