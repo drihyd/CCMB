@@ -1710,7 +1710,7 @@ div{
     align-items: center;
     text-align: center;
     position: relative;
-    height: 70vh;
+    min-height: 70vh;
 }
 .banner-slider
 {
