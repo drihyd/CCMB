@@ -33,7 +33,7 @@ const Header = ({
                      <a href="#">Ecosystem</a>
                   </li>
                   <li class="link-gallery">
-                     <a href="#">Portfolio</a>
+                     <a href="portfolio.html">Portfolio</a>
                   </li>
                </nav>
             </div>
